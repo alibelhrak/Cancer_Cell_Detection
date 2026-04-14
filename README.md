@@ -171,48 +171,9 @@ python train.py \
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>Metric</th>
-    <th>Class / Scope</th>
-    <th>Value</th>
-  </tr>
-  <tr>
-    <td>True Positive</td>
-    <td>Mitosis</td>
-    <td>143</td>
-  </tr>
-  <tr>
-    <td>True Negative</td>
-    <td>Interphase</td>
-    <td>21</td>
-  </tr>
-  <tr>
-    <td>False Positive</td>
-    <td>Interphase → Mitosis</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>False Negative</td>
-    <td>Mitosis → Interphase</td>
-    <td>4</td>
-  </tr>
-  <tr>
-    <td>Test Samples</td>
-    <td>Interphase</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td>Test Samples</td>
-    <td>Mitosis</td>
-    <td>147</td>
-  </tr>
-  <tr>
-    <td>Total Samples</td>
-    <td>Overall</td>
-    <td>172</td>
-  </tr>
-</table>
+## Training Curves
+
+<img src="https://github.com/user-attachments/assets/69f79dd5-06c4-41d0-86a4-a7a84d1d4b15" width="900"/>
 
 </div>
 
