@@ -107,18 +107,62 @@ python train.py \
 ### Evaluation Metrics
 
 <img width="2685" height="740" alt="training_curves" src="https://github.com/user-attachments/assets/a674d388-1884-4bce-81d7-f8b72eccedca" />
+<div align="center">
 
-| Metric      | Class / Scope | Value  |
-|------------|--------------|--------|
-| Precision   | Interphase   | 0.84   |
-| Precision   | Mitosis      | 0.9728 |
-| Recall      | Interphase   | 0.84   |
-| Recall      | Mitosis      | 0.9728 |
-| F1 Score    | Interphase   | 0.84   |
-| F1 Score    | Mitosis      | 0.9728 |
-| Accuracy    | Overall      | 0.9535 |
-| F1 Macro    | Overall      | 0.9064 |
-| F1 Weighted | Overall      | 0.9535 |
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Class / Scope</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>Interphase</td>
+    <td>0.84</td>
+  </tr>
+  <tr>
+    <td>Precision</td>
+    <td>Mitosis</td>
+    <td>0.9728</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>Interphase</td>
+    <td>0.84</td>
+  </tr>
+  <tr>
+    <td>Recall</td>
+    <td>Mitosis</td>
+    <td>0.9728</td>
+  </tr>
+  <tr>
+    <td>F1 Score</td>
+    <td>Interphase</td>
+    <td>0.84</td>
+  </tr>
+  <tr>
+    <td>F1 Score</td>
+    <td>Mitosis</td>
+    <td>0.9728</td>
+  </tr>
+  <tr>
+    <td>Accuracy</td>
+    <td>Overall</td>
+    <td>0.9535</td>
+  </tr>
+  <tr>
+    <td>F1 Macro</td>
+    <td>Overall</td>
+    <td>0.9064</td>
+  </tr>
+  <tr>
+    <td>F1 Weighted</td>
+    <td>Overall</td>
+    <td>0.9535</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
