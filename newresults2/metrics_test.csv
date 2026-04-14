@@ -1,0 +1,17 @@
+Metric,Class,Value
+Precision,Interphase,0.84
+Precision,Mitosis,0.9728
+Recall,Interphase,0.84
+Recall,Mitosis,0.9728
+F1 Score,Interphase,0.84
+F1 Score,Mitosis,0.9728
+Accuracy,Overall,0.9535
+F1 Macro,Overall,0.9064
+F1 Weighted,Overall,0.9535
+True Positive,Mitosis,143.0
+True Negative,Interphase,21.0
+False Positive,Interphase→Mitosis,4.0
+False Negative,Mitosis→Interphase,4.0
+Test Samples,Interphase,25.0
+Test Samples,Mitosis,147.0
+Test Samples,Total,172.0
