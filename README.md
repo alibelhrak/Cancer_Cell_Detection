@@ -56,18 +56,16 @@ The model combines spatial and temporal learning:
 - Early stopping based on macro F1-score
 - Group-aware data splitting (avoids data leakage)
 
----
-
 ## Project Structure
 
+```
 .
 ├── checkpoints/        # Saved models
-├── results/            # Metrics, plots, confusion matrix
+├── results/            # Metrics, plots, confusion matrices
 ├── data/               # ALFI dataset (not included)
 ├── train.py            # Main training script
-└── README.md
-
----
+└── README.md           # Project documentation
+```
 
 ## Installation
 
