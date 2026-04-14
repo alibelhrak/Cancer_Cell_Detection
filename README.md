@@ -106,6 +106,8 @@ python train.py \
 
 ### Evaluation Metrics
 
+<img width="2685" height="740" alt="training_curves" src="https://github.com/user-attachments/assets/a674d388-1884-4bce-81d7-f8b72eccedca" />
+
 | Metric      | Class / Scope | Value  |
 |------------|--------------|--------|
 | Precision   | Interphase   | 0.84   |
@@ -121,6 +123,10 @@ python train.py \
 ---
 
 ### Test Set Statistics
+
+
+<img width="836" height="732" alt="cm_task1" src="https://github.com/user-attachments/assets/90cfd8c7-3385-4107-bec7-ae03722c7695" />
+
 
 | Metric         | Class / Scope        | Value |
 |---------------|----------------------|-------|
