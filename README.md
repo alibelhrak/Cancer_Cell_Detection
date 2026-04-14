@@ -171,16 +171,53 @@ python train.py \
 
 <img width="836" height="732" alt="cm_task1" src="https://github.com/user-attachments/assets/90cfd8c7-3385-4107-bec7-ae03722c7695" />
 
+<div align="center">
 
-| Metric         | Class / Scope        | Value |
-|---------------|----------------------|-------|
-| True Positive  | Mitosis             | 143   |
-| True Negative  | Interphase          | 21    |
-| False Positive | Interphase → Mitosis | 4     |
-| False Negative | Mitosis → Interphase | 4     |
-| Test Samples   | Interphase          | 25    |
-| Test Samples   | Mitosis             | 147   |
-| Total Samples  | Overall             | 172   |
+<table>
+  <tr>
+    <th>Metric</th>
+    <th>Class / Scope</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td>True Positive</td>
+    <td>Mitosis</td>
+    <td>143</td>
+  </tr>
+  <tr>
+    <td>True Negative</td>
+    <td>Interphase</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>False Positive</td>
+    <td>Interphase → Mitosis</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>False Negative</td>
+    <td>Mitosis → Interphase</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Test Samples</td>
+    <td>Interphase</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Test Samples</td>
+    <td>Mitosis</td>
+    <td>147</td>
+  </tr>
+  <tr>
+    <td>Total Samples</td>
+    <td>Overall</td>
+    <td>172</td>
+  </tr>
+</table>
+
+</div>
+
 
 ---
 
