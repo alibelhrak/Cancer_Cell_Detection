@@ -173,7 +173,8 @@ python train.py \
 
 ## Training Curves
 
-<img src="https://github.com/user-attachments/assets/69f79dd5-06c4-41d0-86a4-a7a84d1d4b15" width="900"/>
+<img width="836" height="732" alt="cm_task1" src="https://github.com/user-attachments/assets/7152336e-a153-46de-8c82-e7695927645d" />
+
 
 </div>
 
