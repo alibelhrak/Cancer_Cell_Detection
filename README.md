@@ -104,7 +104,7 @@ python train.py \
 
 ### Evaluation Metrics
 
-<img width="2685" height="740" alt="training_curves" src="https://github.com/user-attachments/assets/a674d388-1884-4bce-81d7-f8b72eccedca" />
+<img width="2147" height="596" alt="training_curves_live" src="https://github.com/user-attachments/assets/68ad57f6-7f41-45d8-8cd9-223f616c506d" />
 <div align="center">
 
 <table>
