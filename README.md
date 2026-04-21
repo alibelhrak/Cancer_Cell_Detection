@@ -258,4 +258,4 @@ Master’s Student in Applied Computer Science
 
 ## License
 
-This project is intended for research and educational purposes.<img width="836" height="732" alt="cm_task1" src="https://github.com/user-attachments/assets/9f56a5f4-1db6-468d-be24-36be4b8612b1" />
+This project is intended for research and educational purposes.
