@@ -6,9 +6,7 @@ ALFI Dataset : Task 1 and Task 2
 
 ## Overview
 
-This project focuses on automated cancer cell classification from time-lapse microscopy image sequences using deep learning.
-
-The goal is to assist biological screening systems by accurately identifying different cell states, where early and reliable detection of abnormal cell behavior is critical.
+This project focuses on automated cancer cell classification from time-lapse microscopy image sequences using deep learning. The biological process underlying this task is the cell cycle, where cells spend most of their time in interphase, a stage dedicated to growth and DNA replication. When cells transition into mitosis, they undergo rapid and highly structured changes that lead to cell division into two daughter cells. These transitions are visually and temporally dynamic, making them challenging to analyze manually. The goal of this work is to assist biological screening systems by accurately identifying these different cell states, enabling early and reliable detection of abnormal or rapidly dividing cells, which is essential for cancer research and diagnosis.
 
 Two classification tasks are addressed using the ALFI dataset:
 
