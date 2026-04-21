@@ -1,0 +1,21 @@
+Metric,Class,Value
+Precision,earlymitosis,0.9961
+Recall,earlymitosis,0.653
+F1 Score,earlymitosis,0.7888
+Precision,latemitosis,0.3131
+Recall,latemitosis,0.8378
+F1 Score,latemitosis,0.4559
+Precision,celldeath,0.8902
+Recall,celldeath,0.9605
+F1 Score,celldeath,0.9241
+Precision,multipolar,0.0526
+Recall,multipolar,0.4
+F1 Score,multipolar,0.093
+Accuracy,Overall,0.707
+F1 Macro,Overall,0.5654
+F1 Weighted,Overall,0.7712
+Test Samples,earlymitosis,389.0
+Test Samples,latemitosis,37.0
+Test Samples,celldeath,76.0
+Test Samples,multipolar,10.0
+Test Samples,Total,512.0
