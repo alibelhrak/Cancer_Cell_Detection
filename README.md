@@ -1,6 +1,6 @@
 # Cancer Cell Classification using Deep Learning
 
-ALFI Dataset — Task 1 and Task 2
+ALFI Dataset : Task 1 and Task 2
 
 ---
 
@@ -14,7 +14,7 @@ Two classification tasks are addressed using the ALFI dataset:
 
 ---
 
-# Task 1 — Binary Classification (Interphase vs Mitosis)
+# Task 1 : Binary Classification (Interphase vs Mitosis)
 
 ## Objective
 
@@ -34,7 +34,7 @@ In biological research, detecting mitosis events is extremely important because 
 
 ---
 
-# Task 2 — Phenotype Classification (Multi-Class)
+# Task 2 : Phenotype Classification (Multi-Class)
 
 ## Objective
 
@@ -129,7 +129,7 @@ sbatch train_slurm.sh
 
 ## Results
 
-# Task 1 — Binary Classification (Interphase vs Mitosis)
+# Task 1 : Binary Classification (Interphase vs Mitosis)
 
 ### Confusion Matrix Summary
 
@@ -160,7 +160,7 @@ sbatch train_slurm.sh
 
 ---
 
-# Task 2 — Phenotype Classification
+# Task 2 : Phenotype Classification
 
 ### Confusion Matrix
 
